@@ -1,6 +1,6 @@
 package advent.util
 
-import advent.Day15
+import advent.y2024.Day15
 import com.badlogic.gdx.ApplicationAdapter
 import com.badlogic.gdx.Gdx
 import com.badlogic.gdx.Input
